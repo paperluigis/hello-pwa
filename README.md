@@ -1,3 +1,6 @@
+<div style="position: fixed; top: 0px; left: 0px; background: black, color: white; opacity: 0.33;">
+  Warning! This is NOT my program and I forked it to make an program from just some example.
+</div>
 # Hello PWA
 The classic Hello World program as a Progressive Web App
 
